@@ -1,4 +1,4 @@
-# decision_tree_post_prunning
+# Decision_tree
 
 # Decision Tree Classifier with Pre-Pruning and Post-Pruning
 
